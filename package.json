@@ -1,6 +1,6 @@
 {
   "name": "@sidekik/contracts",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "Shared contracts, decision specs and stream names for Sidekik services",
   "type": "module",
   "main": "dist/index.js",
